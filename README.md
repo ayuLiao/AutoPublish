@@ -61,9 +61,9 @@ pip install -r requirements.txt
 python tkmain.py
 ```
 
-2019年8月27效果：
+点击观看使用视频（2019年8月27效果)：
 
-<iframe src="//player.bilibili.com/player.html?aid=65553690&cid=113753898&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+[![ScreenShot](https://raw.githubusercontent.com/ayuLiao/images/master/20190827161340.png)](https://www.bilibili.com/video/av65553690/)
 
 4.分享给非程序员朋友使用
 
