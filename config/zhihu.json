@@ -1,0 +1,6 @@
+{
+  "USERNAME":"",
+  "PASSWORD":"",
+  "LOGIN_URL":"https://www.zhihu.com/signin?next=%2F",
+  "WRITE_URL":"https://zhuanlan.zhihu.com/write"
+}

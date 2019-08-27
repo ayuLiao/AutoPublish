@@ -1,0 +1,7 @@
+{
+  "USERNAME":"",
+  "PASSWORD":"",
+  "LOGIN":"https://passport.csdn.net/login",
+  "LOGIN_URL":"https://passport.csdn.net/v1/register/pc/login/doLogin",
+  "WRITE_URL":"https://mp.csdn.net/mdeditor#"
+}

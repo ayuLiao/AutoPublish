@@ -1,0 +1,6 @@
+{
+  "USERNAME":"",
+  "PASSWORD":"",
+  "LOGIN_URL":"https://accounts.douban.com/j/mobile/login/basic",
+  "WRITE_URL":"https://www.douban.com/note/create"
+}
