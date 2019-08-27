@@ -28,6 +28,23 @@ AutoPublish的主要逻辑：
 pip install -r requirements.txt
 ```
 
+### 编写MarkDown
+
+MarkDown文件的编写按照旧的形式编写则可，只是AutoPublish为了获取文章的标题与分类，你需要在MarkDown文件中添加类似如下的开头:
+
+```
+---
+title: Python进阶：使用ctypes将Python运行速度提升30倍
+tags: Python, Python入门
+---
+
+MarkDown文件的正文内容
+```
+
+tags中的标签为英文形式
+
+
+
 ### 使用
 
 1.进入 config 目录，配置自己平台的账号与密码
